@@ -173,7 +173,7 @@ int main (int argc, char** argv) {
 
     if (argc < 6) {
         printf("ERROR: Insufficient number of arguments!\n");
-        printf("Usage: ./test INPUT_FILE OUTPUT_FILE START_TIME END_TIME MIN_LENGTH\n");
+        printf("Usage: ./main INPUT_FILE OUTPUT_FILE START_TIME END_TIME MIN_LENGTH\n");
         printf("START_TIME, END_TIME and MIN_LENGTH should be provided in seconds\n");
         return 1;
     }
