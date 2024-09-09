@@ -1,6 +1,6 @@
 # BunLoop
 
-A fast, simple program to automatically loop music seamlessly.
+A fast, simple program to loop music seamlessly.
 
 In the interest of speed, this process is not fully automated and requires the user to supply the estimated start and end points of a loop.
 
